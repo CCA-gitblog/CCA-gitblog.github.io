@@ -5,7 +5,7 @@ tags: [CCA, TRINT, 전국사이버보안동아리연합]
 category: 대회
 image: "./post1_cover.png"
 description: "제 1회 보안 트렌드 인텔리전스(TRINT) 분석 가공 대회 개최"
-draft: true
+draft: false
 ---
 
 # 제 1회 보안 트렌드 인텔리전스(TRINT) 분석 가공 대회 개최
