@@ -45,7 +45,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		{
-			name: "입단 문의",
+			name: "가입 문의",
 			url: "https://open.kakao.com/o/sHBXkRWh", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
